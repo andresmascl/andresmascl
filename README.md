@@ -41,4 +41,4 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 
 #### My hobbies:
--I like taking pictures of street art and artists.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/)
+-I like taking pictures of street art and artists.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) :camera:
