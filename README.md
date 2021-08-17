@@ -17,8 +17,4 @@ Here are some ideas to get you started:
 
 Welcome to my profile.
 
-As a byproduct, My application licitaciones24x7.cl, generates as a list ranking the Chilean government units which participate in public tenders for acquiring goods and services from production companies.
-
-![Ranking de Demandantes de Estado de Chile](https://datastudio.google.com/u/0/reporting/9f7fbc0f-db90-4b8c-92ee-6da9fc9bfb20/page/8yGIC)
-
-View in [Github Pages](https://tomcam.github.io/least-github-pages/) or directly on [Github](https://github.com/tomcam/least-github-pages/) 
+As a byproduct, My application licitaciones24x7.cl, generates as a list ranking the Chilean government units which participate in public tenders for acquiring goods and services from production companies.  View in [Github Pages](https://info.licitaciones24x7.cl/demandantes-del-estado)
