@@ -23,4 +23,4 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 
 Proyects I have worked in the past:
-  
+  I proudly helped to plan and design the structure of [Destinoempleo.cl](https://destinoempleo.cl) for the Ministry of Labor of Chile
