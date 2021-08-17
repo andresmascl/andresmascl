@@ -27,3 +27,7 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 #### Proyects I have worked on in the past:
 -I proudly helped to plan and design the structure of [Destinoempleo.cl](https://destinoempleo.cl) for the Ministry of Labor of Chile.  The sites' objective is to provide useful information to participants of the Chilean labor market in order to make better informed esitions on their professional career paths.
+
+
+### My hobbies:
+-I like taking pictures of street art and artists.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/)
