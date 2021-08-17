@@ -46,12 +46,15 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 - [ ] [UoPeople](https://uopeople.edu) MBA candidate
 
 
-#### My hobbies:
-- I like taking pictures of street art and artists :camera_flash:.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) 
-
 
 #### Other porfolios:
 - [ ] [FreeCodeCamp](https://www.freecodecamp.org/andresma)
+
+
+
+#### My hobbies:
+- I like taking pictures of street art and artists :camera_flash:.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) 
+
 
 
 #### To contact me:
