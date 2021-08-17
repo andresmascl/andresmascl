@@ -49,7 +49,7 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 
 #### Other porfolios:
-- [ ] [FreeCodeCamp](https://www.freecodecamp.org/andresma)
+- [ ] Check out the Full Stack Developer certifications I have completed so far at my FreeCodeCamp [profile page](https://www.freecodecamp.org/andresma)
 
 
 
