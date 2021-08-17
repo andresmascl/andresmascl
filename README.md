@@ -37,7 +37,7 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 - [x] IBM Data Science Professional Certification
 - [ ] Full Stack Development at [FreeCodeCamp](https://freecodecamp.org)
     - [x] JavaScript
-    - [ ] React.js
+    - [ ] React.js :atom:
     - [ ] Redux.js
 - [ ] [UoPeople](https://uopeople.edu) MBA candidate
 
