@@ -34,7 +34,8 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 - In some cases the contact information needed to reach the surveyed companies was provided by my app, [Licitaciones24x7.cl](https://licitaciones24x7.cl).
 
-- I proudly helped to plan and design [Destinoempleo.cl](https://destinoempleo.cl) for the Ministry of Labor of Chile.  The sites' objective is to provide useful information to participants of the Chilean labor market in order to make better and more informed decisions regarding their career paths.
+- I proudly helped to plan and design [Destinoempleo.cl](https://destinoempleo.cl) for the Ministry of Labor of Chile.  The sites' objective is to provide useful information to participants of the Chilean labor market in order to make better and more informed decisions regarding their career paths.  It was even featured on the local news! My client took a picture of it :) ![Destinoempleo on tv](https://i.imgur.com/KEptQrp.jpg)
+
 
 
 #### I am currently learning:
