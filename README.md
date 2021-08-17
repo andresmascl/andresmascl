@@ -34,7 +34,7 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 
 #### I am currently learning:
-- [x] IBM Data Science Professional Certification
+- [x] IBM Data Science Professional Certification (lots of python :snake:)
 - [ ] Full Stack Development at [FreeCodeCamp](https://freecodecamp.org)
     - [x] JavaScript
     - [ ] React.js :atom:
