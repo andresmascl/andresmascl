@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my profile.
+
+As a byproduct, My application licitaciones24x7.cl, generates as a list ranking the Chilean government units which participate in public tenders for acquiring goods and services from production companies.
+
+![Ranking de Demandantes de Estado de Chile](https://i.imgur.com/y5hPzaY.png)
+
