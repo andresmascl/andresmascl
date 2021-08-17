@@ -34,9 +34,10 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 
 #### I am currently learning:
--Full Stack Development at [FreeCodeCamp](https://freecodecamp.org)
-  *React.js
-  *Redux.js
+[]Full Stack Development at [FreeCodeCamp](https://freecodecamp.org)
+ [x]JavaScript
+  []React.js
+  []Redux.js
 
 
 ### My hobbies:
