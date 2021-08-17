@@ -38,7 +38,7 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
     - [x] JavaScript
     - [ ] React.js
     - [ ] Redux.js
-
+- [ ] Applying for the [UoPeople](https://uopeople.edu) MBA
 
 #### My hobbies:
 -I like taking pictures of street art and artists :camera:.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) 
