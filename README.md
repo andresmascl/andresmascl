@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 # Welcome to my profile!
 
 
+
+
 #### What I am currently working on:
 
 I am currently working on [Licitaciones24x7.cl](https://licitaciones24x7.cl), a SaaS which serves market information to companies which participate in public tenders to provide services and goods to the Chilean government.
@@ -25,8 +27,12 @@ I am currently working on [Licitaciones24x7.cl](https://licitaciones24x7.cl), a 
 As a byproduct, Licitaciones24x7.cl generates as a list ranking the government units which publish these tenders.  The ranking compares their propensity to publish tenders which don't end up in purchases, to receive complains for malpractices during the tenders, and to receive complains for delayed payments of invoices.  See the list [here](https://info.licitaciones24x7.cl/demandantes-del-estado)
 
 
+
+
 #### Proyects I have worked on in the past:
 -I proudly helped to plan and design the structure of [Destinoempleo.cl](https://destinoempleo.cl) for the Ministry of Labor of Chile.  The sites' objective is to provide useful information to participants of the Chilean labor market in order to make better informed desitions on their professional career paths.
+
+
 
 
 ### My hobbies:
