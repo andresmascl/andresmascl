@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 Welcome to my profile.
 
-I am currently working in Licitaciones24x7.cl, a SaaS which serves companies participating in public tenders to provide services and goods to Chilean government units.  You can visit it [here](https://licitaciones24x7.cl).
+I am currently working in [Licitaciones24x7.cl](https://licitaciones24x7.cl), a SaaS which serves companies participating in public tenders to provide services and goods to Chilean government units.
 
 As a byproduct, Licitaciones24x7.cl generates as a list ranking the Chilean government units which participate in these public tenders.  The ranking compoares their propensity to publish tenders which don't end up in purchases, to receive complains for malpractices during their tenders, to receive complains for delayed payments of issued invoices.  See the list [here](https://info.licitaciones24x7.cl/demandantes-del-estado)
 
 
+Proyects I have worked in the past:
+  
