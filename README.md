@@ -39,12 +39,20 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 #### I am currently learning:
 - [x] IBM Data Science Professional Certification (lots of python :snake: and pandas :panda_face::panda_face:)
-- [ ] Full Stack Development at [FreeCodeCamp](https://www.freecodecamp.org/andresma)
-    - [x] JavaScript
+- [x] JavaScript
     - [ ] React.js :atom:
     - [ ] Redux.js
     - [ ] Node.js
 - [ ] [UoPeople](https://uopeople.edu) MBA candidate
 
+
 #### My hobbies:
 - I like taking pictures of street art and artists :camera_flash:.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) 
+
+
+#### Other porfolios:
+- [ ] [FreeCodeCamp](https://www.freecodecamp.org/andresma)
+
+
+#### To contact me:
+- Just send me an e-mail at andresma@licitaciones24x7.cl
