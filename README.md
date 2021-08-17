@@ -39,6 +39,7 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
     - [x] JavaScript
     - [ ] React.js :atom:
     - [ ] Redux.js
+    - [ ] Node.js
 - [ ] [UoPeople](https://uopeople.edu) MBA candidate
 
 #### My hobbies:
