@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 #### What I am currently working on:
 
-I currently work for the Ministry of Labor of Chile as a Data Engineering and Analysis Developer.
+I currently work for the Ministry of Labor of Chile as a Data Analysis Development Consultant.
 
 I also continue to work on my app [Licitaciones24x7.cl](https://licitaciones24x7.cl), a SaaS which serves market information to companies which participate in public tenders to provide services and goods to the Chilean government :chile:.
 
