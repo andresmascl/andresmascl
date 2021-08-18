@@ -26,7 +26,7 @@ I currently work for the Ministry of Labor of Chile as a Data Engineering and An
 
 I also keep continue working on [Licitaciones24x7.cl](https://licitaciones24x7.cl), a SaaS which serves market information to companies which participate in public tenders to provide services and goods to the Chilean government :chile:.
 
-As a byproduct, Licitaciones24x7.cl generates as a list ranking the government units which publish these tenders.  The ranking compares their propensity to publish tenders which don't end up in purchases, to receive complains for malpractices during the tenders, and to receive complains for delayed payments of invoices.  See the list [here](https://info.licitaciones24x7.cl/demandantes-del-estado)
+As a byproduct, Licitaciones24x7.cl generates as a list ranking the government units which call for these tenders.  The ranking compares their propensity to publish tenders which don't end up in purchases, to receive complains for malpractices during the tenders, and to receive complains for delayed payments of invoices.  See the list [here](https://info.licitaciones24x7.cl/demandantes-del-estado).
 
 
 
