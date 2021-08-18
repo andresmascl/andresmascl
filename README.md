@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **andresmascl/andresmascl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,16 +44,9 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 ### I am currently learning:
 - [x] IBM Data Science Professional Certification (lots of python :snake: and pandas :panda_face::panda_face:)
-- [x] JavaScript
-    - [ ] React.js :atom:
-    - [ ] Redux.js
-    - [ ] Node.js
+- [ ] Hadoop, Spark, MapReduce
+- [ ] Fullstack Developer Certification at FreeCodeCamp.  Check out my progress [here](https://www.freecodecamp.org/andresma)
 - [ ] [UoPeople](https://uopeople.edu) MBA candidate
-
-
-
-### Other porfolios:
-- [ ] Check out the Full Stack Developer certifications I have completed so far at my FreeCodeCamp [profile page](https://www.freecodecamp.org/andresma)
 
 
 
