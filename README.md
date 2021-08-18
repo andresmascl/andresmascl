@@ -38,8 +38,6 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 #### Destinoempleo.cl:
 - I proudly helped to plan the structure and design the charts of [Destinoempleo.cl](https://destinoempleo.cl) for the Ministry of Labor of Chile.  The sites' objective is to provide useful information to participants of the Chilean labor market in order to make better and more informed decisions regarding their career paths.  It was even featured on the local news! ![Destinoempleo on tv](https://i.imgur.com/KEptQrp.jpg)
 
-
-
 - Back in 2018 I built a bot which downloaded information from Laborum.com in order to gather information for a research on the Chilean labor market.  The bot was built entirely inside a Google Colab Notebook, which is pretty neat!  Here is [the link to the repo](https://github.com/andresmascl/LaborumSpyder).
 
 ### I am currently learning:
@@ -47,12 +45,22 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 - [ ] Fullstack Developer Certification at FreeCodeCamp.  Check out my progress [here](https://www.freecodecamp.org/andresma)
 - [ ] [UoPeople](https://uopeople.edu) MBA candidate
 
+
 ### My certifications:
 - [x] IBM Data Science Professional Certification (lots of python :snake: and pandas :panda_face::panda_face:)
 - [X] COPC Registered Coordinator
 
+
 ### My hobbie:
 - I like taking pictures of street art and artists :camera_flash:.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) 
+
+
+### Random facts:
+- I lived in Elvis Presleys' town for three years when I was in highschool
+- I used to be a smoker
+- I can't play the guitar, even though I have one
+- 
+
 
 ### To contact me:
 - Just send me an e-mail at andresma@licitaciones24x7.cl
