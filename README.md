@@ -54,14 +54,14 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 ## My hobbie:
 - I like taking pictures of street art and artists :camera_flash:.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) 
+- 
 
-
-### Random facts:
+## Random facts:
 - I lived in Elvis Presleys' town for three years when I was in highschool
 - I used to be a smoker
 - I can't play the guitar, even though I have one
 - 
 
 
-### To contact me:
+## To contact me:
 - Just send me an e-mail at andresma@licitaciones24x7.cl
