@@ -40,6 +40,8 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 - Back in 2018 I built a bot which downloaded information from Laborum.com in order to gather information for a research on the Chilean labor market.  The bot was built entirely inside a Google Colab Notebook, which is pretty neat!  Here is [the link to the repo](https://github.com/andresmascl/LaborumSpyder).
 
+- I will share more projects in the future as I find them in my computer or in older machines..
+
 ## I am currently learning:
 - [ ] Hadoop & friends
 - [ ] BigQuery & Looker
