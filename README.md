@@ -59,7 +59,7 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 ## Random facts:
 - I lived in Elvis Presleys' town for three years when I was in highschool
 - I used to be a smoker
-- I own a guitar even though I can't play it
+- I own a guitar :guitar: even though I can't play it
 - 
 
 
