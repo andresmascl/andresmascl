@@ -42,7 +42,13 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 - I will share more projects in the future as I find them in my computer or in older machines..
 
-## I am currently learning:
+## Programmingn languages:
+- Python
+- JavaScript
+- MySQL
+- VBA
+
+## Currently learning:
 - [ ] Hadoop & friends
 - [ ] BigQuery
 - [ ] Fullstack Development at FreeCodeCamp.  Check out my progress [here](https://www.freecodecamp.org/andresma)
@@ -54,13 +60,12 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 - [X] COPC Registered Coordinator
 
 
-## My hobbies:
+## Hobbies:
 - I like taking pictures of street art and artists :camera_flash:.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) 
 - 
 
 ## Random facts:
-- I lived in Elvis Presleys' town for three years when I was in highschool
-- I used to be a smoker
+- I used to smoke
 - I own a guitar :guitar: even though I can't play it
 - 
 
