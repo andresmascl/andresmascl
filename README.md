@@ -66,7 +66,7 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 ## Random facts:
 - I used to smoke
-- I own a guitar :guitar: even though I can't play it
+- I have a guitar :guitar: and I don't know how to play it
 - 
 
 
