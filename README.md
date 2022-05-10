@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 
 ### What I am currently working on
-#### The SOLAB Survey (Sistema de Oportunidades Laborales) for the Ministry of Labor of Chile:
-[SOLAB](https://solab.observatorionacional.cl/) is a project developed by the Ministry of Labor which aims at anticipating the demand for job openings in the construction sector in different regions of the country by surveying construction companies which have recently obtained contracts with the government.  The results of the surveys are fed every week to a database using a python script which cleans and preprocesses the data.  The script also sends out alerts to regional government recruiting agencies, using a mailing service, to let them know whenever there are companies in their region who need assistance in their recruitment processes.  The database feeds data to reports made in Google Data Studio.  Originally the project was intended for internal use only, and was meant to be reviewed only by the Ministry's officials, so I am very lucky that they decided to make it public because it means I can add it to my portfolio!.  In some cases the contact information needed to reach the companies to be surveyed was provided by [Licitaciones24x7.cl's](https://licitaciones24x7.cl) internal API using a special node just for this task.
+I currently work for D2iQ in their [Kaptain](https://d2iq.com/products/kaptain) product.  An opinionated (and amply superior) version of Kubeflow.
 
 #### Licitaciones24x7.cl:
 I also continue to work on my app [Licitaciones24x7.cl](https://licitaciones24x7.cl), a SaaS which serves market information to companies which participate in public tenders to provide services and goods to the Chilean government :chile:.
@@ -29,6 +28,9 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 
 ### Proyects I have worked on in the past
+#### The SOLAB Survey (Sistema de Oportunidades Laborales) for the Ministry of Labor of Chile:
+[SOLAB](https://solab.observatorionacional.cl/) is a project developed by the Ministry of Labor which aims at anticipating the demand for job openings in the construction sector in different regions of the country by surveying construction companies which have recently obtained contracts with the government.  The results of the surveys are fed every week to a database using a python script which cleans and preprocesses the data.  The script also sends out alerts to regional government recruiting agencies, using a mailing service, to let them know whenever there are companies in their region who need assistance in their recruitment processes.  The database feeds data to reports made in Google Data Studio.  Originally the project was intended for internal use only, and was meant to be reviewed only by the Ministry's officials, so I am very lucky that they decided to make it public because it means I can add it to my portfolio!.  In some cases the contact information needed to reach the companies to be surveyed was provided by [Licitaciones24x7.cl's](https://licitaciones24x7.cl) internal API using a special node just for this task.
+
 #### Destinoempleo.cl:
 - I proudly helped to plan the structure and design the charts of [Destinoempleo.cl](https://destinoempleo.cl) for the Ministry of Labor of Chile.  The sites' objective is to provide useful information to participants of the Chilean labor market in order to make better and more informed decisions regarding their career paths.  It was even featured on the local news! ![Destinoempleo on tv](https://i.imgur.com/KEptQrp.jpg)
 
