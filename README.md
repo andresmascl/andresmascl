@@ -43,11 +43,13 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 - VBA
 
 ### Currently learning:
-- [ ] [UoPeople](https://uopeople.edu) MBA
-- [ ] React & Redux
-- [ ] Business Analysis
-- [ ] SCRUM
-- [ ] Fullstack Development at FreeCodeCamp.  Check out my progress [here](https://www.freecodecamp.org/andresma)
+- [ ] Docker & friends
+- [ ] Kubeflow
+~~- [ ] [UoPeople](https://uopeople.edu) MBA~~
+~~- [ ] React & Redux~~
+- [X] Business Analysis
+- [X] SCRUM
+- [X] Fullstack Development at FreeCodeCamp.  Check out my progress [here](https://www.freecodecamp.org/andresma)
 
 
 ### Certifications:
