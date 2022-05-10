@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### What I am currently working on
-I currently work for [D2iQ](https://d2iq.com/) in their [Kaptain](https://d2iq.com/products/kaptain) product.  An opinionated (and amply superior) version of Kubeflow.
+I currently work for [D2iQ](https://d2iq.com/) in their [Kaptain](https://d2iq.com/products/kaptain) product.  An opinionated (and amply superior) version of [Kubeflow](https://www.kubeflow.org/).
 
 #### Licitaciones24x7.cl:
 I also continue to work on my app [Licitaciones24x7.cl](https://licitaciones24x7.cl), a SaaS which serves market information to companies which participate in public tenders to provide services and goods to the Chilean government :chile:.
