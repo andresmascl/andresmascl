@@ -45,7 +45,9 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 ### Currently learning:
 - [ ] Docker & friends
 - [ ] Kubeflow
+
 ~~- [ ] [UoPeople](https://uopeople.edu) MBA~~
+
 ~~- [ ] React & Redux~~
 - [X] Business Analysis
 - [X] SCRUM
