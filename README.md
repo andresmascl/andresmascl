@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### What I am currently working on
-I currently work in the development team of an opinionated (and amply superior) version of [Kubeflow](https://www.kubeflow.org/).
+I currently work in the development team of an opinionated (and amply superior) version of [Kubeflow](https://www.kubeflow.org/) for a California based company.
 
 #### Licitaciones24x7.cl:
 I also continue to work on my app [Licitaciones24x7.cl](https://licitaciones24x7.cl), a SaaS which serves market information to companies which participate in public tenders to provide services and goods to the Chilean government :chile:.
@@ -45,12 +45,10 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 - VBA
 
 ### Currently learning:
-- [ ] Docker & friends
 - [ ] Kubeflow
+- [ ] Kubernetes
 
-~~- [ ] [UoPeople](https://uopeople.edu) MBA~~
-
-~~- [ ] React & Redux~~
+- [x] Docker & friends
 - [X] Business Analysis
 - [X] SCRUM
 - [X] Fullstack Development at FreeCodeCamp.  Check out my progress [here](https://www.freecodecamp.org/andresma)
@@ -61,14 +59,15 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 - [X] COPC Registered Coordinator
 
 
+### Degrees:
+- [ ] Commerce engineer graduate from Universidad del Pacífico
+
 ### Hobbies:
 - I like taking pictures of street art and artists :camera_flash:.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) 
 - 
 
 ### Random facts:
-- I used to smoke
-- I have a guitar :guitar: and I don't know how to play it
-- 
+- I own a guitar :guitar: and I don't know how to play it
 
 
 ### To contact me:
