@@ -40,7 +40,7 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 ### Programmingn languages:
 - Python
-- JavaScript
+- JavaScript and jQuery
 - SQL
 - VBA
 
