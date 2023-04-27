@@ -71,4 +71,4 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 
 ### To contact me:
-- Just send me an e-mail at andresma@licitaciones24x7.cl
+- Just send me an e-mail to andresma@gmail.com
