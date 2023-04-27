@@ -50,7 +50,7 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 - [x] Docker & friends
 - [X] Business Analysis
-- [X] SCRUM
+- [X] PSPO1
 - [X] Fullstack Development at FreeCodeCamp.  Check out my progress [here](https://www.freecodecamp.org/andresma)
 
 
