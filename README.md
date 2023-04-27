@@ -60,7 +60,7 @@ As a byproduct, Licitaciones24x7.cl generates as a list ranking the government u
 
 
 ### Degrees:
-- [ ] Commerce engineer graduate from Universidad del Pacífico
+- [X] Commerce engineer graduate from Universidad del Pacífico
 
 ### Hobbies:
 - I like taking pictures of street art and artists :camera_flash:.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) 
