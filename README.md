@@ -45,9 +45,8 @@ SOLAB is a project developed by the Ministry of Labor which aims at anticipating
 - VBA
 
 ### Currently learning:
-- [ ] Kubeflow
-- [ ] Kubernetes
-
+- [x] Kubeflow
+- [x] Kubernetes
 - [x] Docker & friends
 - [X] Business Analysis
 - [X] PSPO1
