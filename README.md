@@ -70,4 +70,4 @@ SOLAB is a project developed by the Ministry of Labor which aims at anticipating
 
 
 ### To contact me:
-- Just send me an e-mail to andresma@gmail.com
+- Just send an e-mail to andresma@gmail.com
