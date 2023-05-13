@@ -46,10 +46,7 @@ SOLAB is a project developed by the Ministry of Labor which aims at anticipating
 
 ### Currently learning:
 - [ ] PSPO II
-- [ ] CKA
 - [ ] Rasa
-- [X] PSPO I
-- [X] PSM I
 - [X] Kubeflow
 - [x] Kubernetes
 - [x] Docker & friends
@@ -58,12 +55,16 @@ SOLAB is a project developed by the Ministry of Labor which aims at anticipating
 
 
 ### Certifications:
+- [ ] CKA
+- [ ] Rasa
+- [X] PSPO I
+- [X] PSM I
 - [x] IBM Data Science Professional Certification (lots of Python :snake:, Numpy, and Pandas :panda_face::panda_face:)
 - [X] COPC Registered Coordinator
 
 
 ### Degrees:
-- [X] Commerce engineer graduate from Universidad del Pacífico
+- [X] Commerce Engineering graduate from Universidad del Pacífico
 
 ### Hobbies:
 - I like taking pictures of street art and artists :camera_flash:.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) 
