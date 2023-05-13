@@ -45,11 +45,15 @@ SOLAB is a project developed by the Ministry of Labor which aims at anticipating
 - VBA
 
 ### Currently learning:
-- [x] Kubeflow
+- [ ] PSPO II
+- [ ] CKA
+- [ ] Rasa
+- [X] PSPO I
+- [X] PSM I
+- [X] Kubeflow
 - [x] Kubernetes
 - [x] Docker & friends
 - [X] Business Analysis
-- [X] PSPO1
 - [X] Fullstack Development at FreeCodeCamp.  Check out my progress [here](https://www.freecodecamp.org/andresma)
 
 
