@@ -58,7 +58,7 @@ SOLAB is a project developed by the Ministry of Labor which aims at anticipating
 
 
 ### Certifications:
-- [x] IBM Data Science Professional Certification (lots of python :snake: and pandas :panda_face::panda_face:)
+- [x] IBM Data Science Professional Certification (lots of python :snake:, Numpy, and pandas :panda_face::panda_face:)
 - [X] COPC Registered Coordinator
 
 
