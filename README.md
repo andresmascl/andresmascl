@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Proyects I have worked on
 
 #### D2iQ's [Kaptain](https://d2iq.com/products/kaptain):
-Part of the development team of a military grade version of [Kubeflow](https://www.kubeflow.org/) developed by California basec company [D2iQ](https://d2iq.com/).
+Part of the development team of a military grade version of [Kubeflow](https://www.kubeflow.org/), developed by California based company [D2iQ](https://d2iq.com/).
 
 
 #### Licitaciones24x7.cl:
