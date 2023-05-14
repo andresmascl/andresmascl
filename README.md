@@ -56,7 +56,6 @@ SOLAB is a project developed by the Ministry of Labor which aims at anticipating
 
 ### Certifications:
 - [ ] CKA
-- [ ] Rasa
 - [X] PSPO I
 - [X] PSM I
 - [x] IBM Data Science Professional Certification (lots of Python :snake:, Numpy, and Pandas :panda_face::panda_face:)
