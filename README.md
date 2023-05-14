@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 
 
+### Proyects I have worked on
 
-### What I am currently working on
-I currently work in the development team of an military grade version of [Kubeflow](https://www.kubeflow.org/) for a California based company.
+#### D2iQ's [Kaptain](https://d2iq.com/products/kaptain):
+Part of the development team of an military grade version of [Kubeflow](https://www.kubeflow.org/) for [D2iQ](https://d2iq.com/).  California based company.
+
 
 #### Licitaciones24x7.cl:
-I also continue to work on my app [Licitaciones24x7.cl](https://licitaciones24x7.cl), a SaaS which serves market information to companies which participate in public tenders to provide services and goods to the Chilean government :chile:.
+My app [Licitaciones24x7.cl](https://licitaciones24x7.cl), a SaaS which serves market information to companies which participate in public tenders to provide services and goods to the Chilean government :chile:.
 
 As a byproduct, Licitaciones24x7.cl generates as a list ranking the government units which call for these tenders.  The ranking compares their propensity to publish tenders which don't end up in purchases, to receive complains for malpractices during the tenders, and to receive complains for delayed payments of invoices.  See the ranking [here](https://info.licitaciones24x7.cl/demandantes-del-estado).
 
-
-### Proyects I have worked on in the past
 #### The SOLAB Survey (Sistema de Oportunidades Laborales) for the Ministry of Labor of Chile:
 SOLAB is a project developed by the Ministry of Labor which aims at anticipating the demand for job openings in the construction sector in different regions of the country by surveying construction companies which have recently obtained contracts with the government.  The results of the surveys are fed every week to a database using a python script which cleans and preprocesses the data.  The script also sends out alerts to regional government recruiting agencies, using a mailing service, to let them know whenever there are companies in their region who need assistance in their recruitment processes.  The database feeds data to reports made in Google Data Studio.  Originally the project was intended for internal use only, and was meant to be reviewed only by the Ministry's officials, so I am very lucky that they decided to make it public because it means I can add it to my portfolio!.  In some cases the contact information needed to reach the companies to be surveyed was provided by [Licitaciones24x7.cl's](https://licitaciones24x7.cl) internal API using a special node just for this task.
 
