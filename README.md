@@ -38,32 +38,12 @@ SOLAB is a project developed by the Ministry of Labor which aims at anticipating
 
 - I will share more projects in the future as I find them in my computer or in older machines, so keep visiting this page.
 
-### Programmingn languages:
-- Python
-- JavaScript and jQuery
-- SQL
-- VBA
-
-### Currently learning:
-- [ ] PSPO II
-- [X] Rasa
-- [X] Kubeflow
-- [x] Kubernetes
-- [x] Docker & friends
-- [X] Business Analysis
-- [X] Fullstack Development at FreeCodeCamp.  Check out my progress [here](https://www.freecodecamp.org/andresma)
-
-
 ### Certifications:
 - [X] CKA
 - [X] PSPO I
 - [X] PSM I
 - [x] IBM Data Science Professional Certification (lots of Python :snake:, Numpy, and Pandas :panda_face::panda_face:)
 - [X] COPC Registered Coordinator
-
-
-### Degrees:
-- [X] Bachelor of Science in Commerce with Major in Marketing from Universidad del Pacífico
 
 ### Hobbies:
 - I like taking pictures of street art and artists :camera_flash:.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) 
