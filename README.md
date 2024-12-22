@@ -45,13 +45,5 @@ SOLAB is a project developed by the Ministry of Labor which aims at anticipating
 - [x] IBM Data Science Professional Certification (lots of Python :snake:, Numpy, and Pandas :panda_face::panda_face:)
 - [X] COPC Registered Coordinator
 
-### Hobbies:
-- I like taking pictures of street art and artists :camera_flash:.  I post them on [Instagram](https://www.instagram.com/fotocondriacoterminal/) 
-- I am a bedroom DJ.  I have no mixes worth sharing yet, though.
 
-### Random facts:
-- I own a guitar :guitar: and I don't know how to play it
-
-
-### To contact me:
-- Just send an e-mail to andresma@gmail.com
+### To contact me just send an e-mail to andresma@gmail.com
