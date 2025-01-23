@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Welcome!
 
+### What I am currently working on
+I work currently as a R&D Engineer at SogiTech
 
 
 ### Proyects I have worked on
