@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome!
 
 ### What I am currently working on
-I work currently as a R&D Engineer at SogiTech
+I work currently as Scrum Team Lead at SogiTech developing a Python based ERP
 
 
 ### Proyects I have worked on
