@@ -20,7 +20,7 @@ I work currently in home AI automation projects using claudeAI and Python
 
 ### Proyects I have worked on
 
-#### Sogitech 
+#### Sogitech.cl
 Scrum lead and Odoo ERP CE dev.
 
 
