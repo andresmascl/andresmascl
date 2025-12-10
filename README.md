@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 # Welcome!
 
 ### What I am currently working on
-I work currently as Scrum Team Lead at SogiTech developing a Python based ERP
-
+I work currently in home AI automation projects using claudeAI and Python
 
 ### Proyects I have worked on
+
+#### Sogitech 
+Scrum lead and Odoo ERP CE dev.
+
 
 #### D2iQ's [Kaptain](https://d2iq.com/products/kaptain):
 Part of the development team of a military grade version of [Kubeflow](https://www.kubeflow.org/), developed by California based company [D2iQ](https://d2iq.com/).
