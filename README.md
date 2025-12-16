@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome!
 
 ### What I am currently working on
-I work currently in home AI automation projects using claudeAI and Python
+As a hobby i'm working in a voice assistant + playwright integration in Python
 
 ### Proyects I have worked on
 
