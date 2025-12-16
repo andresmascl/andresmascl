@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome!
 
 ### What I am currently working on
-A voice assistant + playwright integration project in Python.  Just for learning purposes and own home use.
+A voice assistant + playwright integration project in Python.  For learning purposes and own home use.
 
 ### Proyects I have worked on
 
