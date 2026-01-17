@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome!
 
 ### What I am currently working on
-A voice assistant + playwright integration project in Python.  For learning purposes and own home use.  Repo at https://github.com/andresmascl/scrapbot.ai
+A voice assistant which controls your local Brave Browser to play Youtube videos.  For learning purposes and own home use.  Repo at https://github.com/andresmascl/scrapbot.ai
 
 ### Proyects I have worked on
 
