@@ -18,15 +18,13 @@ Here are some ideas to get you started:
 ### 18 May 2026: Uploaded a new Voice assistant repository:
 An AI powered voice assistant which controls your local Brave Browser to play Youtube videos.  For learning purposes and own home use.  Repo at https://github.com/andresmascl/scrapbot.ai
 
-### Proyects I have worked on
+### Past projects
 
 #### Sogitech.cl
-Scrum lead and Odoo ERP CE dev.
-
+Scrum team lead lead and Odoo ERP CE developer
 
 #### D2iQ's [Kaptain](https://d2iq.com/products/kaptain):
 Part of the development team of a military grade version of [Kubeflow](https://www.kubeflow.org/), developed by California based company [D2iQ](https://d2iq.com/).
-
 
 #### Licitaciones24x7.cl:
 My app [Licitaciones24x7.cl](https://licitaciones24x7.cl), a SaaS which serves market information to companies which participate in public tenders to provide services and goods to the Chilean government :chile:.
