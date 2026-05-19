@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Welcome!
 
-### What I am currently working on
+### 18/May/2026: Uploaded a new Voice assistant repository:
 An AI powered voice assistant which controls your local Brave Browser to play Youtube videos.  For learning purposes and own home use.  Repo at https://github.com/andresmascl/scrapbot.ai
 
 ### Proyects I have worked on
