@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 
 # Welcome!
 
-### 18 May 2026: Uploaded a new Voice assistant repository:
+### 16 Jan 2026: Uploaded a new Voice assistant repository:
 An AI powered voice assistant which controls your local Brave Browser to play Youtube videos.  For learning purposes and own home use.  Repo at https://github.com/andresmascl/scrapbot.ai
+
+### 9 Sep 2025: New Odoo add-ons web store Scraper:
+Uploaded a little web scraper to get addons from the Odoo add-ons store in order to run some data analysis on the prices and amount of purchases 💰
 
 ### Past projects
 
