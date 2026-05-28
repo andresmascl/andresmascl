@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 # Welcome!
 
-### 16 Jan 2026: Uploaded a new Voice assistant repository:
-An AI powered voice assistant which controls your local Brave Browser to play Youtube videos.  For learning purposes and own home use.  Repo at https://github.com/andresmascl/scrapbot.ai
+### 16 Jan 2026: Uploaded a new Voice Assistant to control Youtube on Brave browser
+An AI powered voice assistant which controls your local Brave Browser to play Youtube videos.  For learning purposes and home use only.  Repo at https://github.com/andresmascl/scrapbot.ai
 
-### 9 Sep 2025: New Odoo add-ons web store Scraper:
+### 9 Sep 2025: New Odoo add-ons web store Scraper
 Uploaded a little web scraper to get addons from the Odoo add-ons store in order to run some data analysis on the prices and amount of purchases 💰
 
-### Feb 2022: D2iQ's [Kaptain](https://d2iq.com/products/kaptain):
+### Feb 2022: D2iQ's [Kaptain](https://d2iq.com/products/kaptain)
 I'm happy to share I'm now part of the development team of a military grade version of [Kubeflow](https://www.kubeflow.org/), developed by California based company [D2iQ](https://d2iq.com/).
 
 #### Licitaciones24x7.cl:
