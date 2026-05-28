@@ -21,13 +21,8 @@ An AI powered voice assistant which controls your local Brave Browser to play Yo
 ### 9 Sep 2025: New Odoo add-ons web store Scraper:
 Uploaded a little web scraper to get addons from the Odoo add-ons store in order to run some data analysis on the prices and amount of purchases 💰
 
-### Past projects
-
-#### Sogitech.cl
-Scrum team lead lead and Odoo ERP CE developer
-
-#### D2iQ's [Kaptain](https://d2iq.com/products/kaptain):
-Part of the development team of a military grade version of [Kubeflow](https://www.kubeflow.org/), developed by California based company [D2iQ](https://d2iq.com/).
+### Feb 2022: D2iQ's [Kaptain](https://d2iq.com/products/kaptain):
+I'm happy to share I'm now part of the development team of a military grade version of [Kubeflow](https://www.kubeflow.org/), developed by California based company [D2iQ](https://d2iq.com/).
 
 #### Licitaciones24x7.cl:
 My app [Licitaciones24x7.cl](https://licitaciones24x7.cl), a SaaS which serves market information to companies which participate in public tenders to provide services and goods to the Chilean government :chile:.
