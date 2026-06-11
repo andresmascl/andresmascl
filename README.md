@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 # Welcome!
 
+### 11-06 2026: Learning to work with Astro and Sanity.io, a cloud-based headless Content Management System (CMS) to create lightspeed loading websites by hosting the entire site in CDNs.
+The "Edge", man
+
+
 ### 16 Jan 2026: Uploaded a new Voice Assistant to control Youtube on Brave browser
 An AI powered voice assistant which controls your local Brave Browser to play Youtube videos.  For learning purposes and home use only.  Repo at https://github.com/andresmascl/scrapbot.ai
 
