@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome!
 
 ### 11-06 2026: Learning to work with Astro and Sanity.io,
-a cloud-based headless Content Management System (CMS) to create lightspeed loading websites by hosting the entire site in CDNs.
+a cloud-based headless Content Management System (Sanity CMS, free tier) to create lightspeed loading websites by hosting the entire site in Cloudflare's CDN (automatic compiling and distributing of pure HTML page using Github Actions for push triggering, and Cloudflare workers for building the Astro site and distributing serverlessly in their CDN). https://pintamono.online/
 
 Living in the "Edge", man 🤙
 
