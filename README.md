@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Welcome!
-### 21 Jun 2026: Learning to deploy Next JS + Payload and integrating it to a GPS server.
-I'm using a GPL project from times of 'ol for the GPS server and I'll be implementing an RBAC rules engine for accessing content.
+### 21 Jun 2026: Learning to integrate a GPS server with Payload and Next JS
+I'm using a GPL project from times of 'ol for the GPS server and I'll be implementing an RBAC rules engine for accessing content through Plane.
 
 ### 18 Jun 2026: Learning to work with Astro and Sanity.io by building an online clothing catalog,
 Sanity CMS is a cloud-based headless Content Management System with a cool backend UI.  By hooking it to an Astro JS page I made a lightspeed loading website by hosting the entire site in Cloudflare's CDN.  By doing automatic compiling and redistributing of pure HTML pages every time the store site is modified during development or the clothing catalog updated the new data is sent cascading down to be cashed by the edge CDN automatically.  
