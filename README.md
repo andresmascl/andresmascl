@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Welcome!
 
 ### 19-06 2026: Learning to work with Astro and Sanity.io by building an online clothing catalog,
-Sanity CMS is a cloud-based headless Content Management System with a cool backend UI.  By hooking it to an Astro JS page I made a lightspeed loading website by hosting the entire site in Cloudflare's CDN.  By doing automatic compiling and redistributing of pure HTML pages every time the store site was modified during development or the clothing catalog updated the new data is sent to travel through a CICD data cascade to be cashed in the edge CDN.  
+Sanity CMS is a cloud-based headless Content Management System with a cool backend UI.  By hooking it to an Astro JS page I made a lightspeed loading website by hosting the entire site in Cloudflare's CDN.  By doing automatic compiling and redistributing of pure HTML pages every time the store site was modified during development or the clothing catalog updated the new data is sent cascading down to be cashed by the edge CDN.  
 
 stack: 
 - Github Actions
