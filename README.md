@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome!
+# Welcome 🧋
+I had forgotten to publish this Jupyter notebook where I experiment with a standard color calibration card to use it as a reference for color balancing. Prototype worked quite well, but I'm pretty sure there is a more advanced version burried somewhere in my Drive.
+<img width="797" height="585" alt="image" src="https://github.com/user-attachments/assets/eac59822-2306-460e-9291-fae2f32dfd07" />
+https://colab.research.google.com/drive/1qp5P8a9GpMqat5LhryLyRXWZ3ipB7Y93?usp=sharing
+
+
 ### 26 Jun 2026: Traccar + Refine integration
 Used Refine framework to wrapp around a Traccar GPS server UI.  Here's the repo #traccar: https://github.com/andresmascl/traccar-refine-wrapper
 
