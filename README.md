@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 # Welcome 🧋
 ### 4 Nov 2026: Color Calibration POC:
 I had forgotten to publish this Jupyter notebook where I experiment with a standard color calibration card to use it as a reference for color balancing. Prototype worked quite well, but I'm almost certain there is a more advanced version burried somewhere in my GDrive.
-<img width="798" height="632" alt="image" src="https://github.com/user-attachments/assets/c74dabfc-c4d6-451f-8fc8-0810c2f256b6" />
+<img width="807" height="634" alt="image" src="https://github.com/user-attachments/assets/86633a7e-85f1-4925-b85f-2d6f51a59d83" />
+
 https://colab.research.google.com/drive/1qp5P8a9GpMqat5LhryLyRXWZ3ipB7Y93?usp=sharing
 
 
